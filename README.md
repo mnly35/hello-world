@@ -9,3 +9,4 @@ the first repo
 :pizza:
 :coffee:
 :smile:
+This is new line
